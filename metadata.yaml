@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '40753'
     url: http://www.gutenberg.org/2009/agents/40753
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40658#With-God-in-the-Yellowstone
 gutenberg_issued: '2012-09-04'
 gutenberg_type: Text
 identifiers:
